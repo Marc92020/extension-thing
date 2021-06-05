@@ -14,7 +14,7 @@ class Yeet {
                 "blockType": "reporter",
                 "text": "9 [greenFlag]",
                 "arguments": {
-                    "color": {
+                    "greenFlag": {
                         "type": "string",
                         "defaultValue": "9 lol"
                     }
