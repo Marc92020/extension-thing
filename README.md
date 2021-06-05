@@ -1,2 +1,0 @@
-# extension-thing
-thing
